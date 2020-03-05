@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+Hi! My name is Qitian Hu, call me Jason. Currently a second-year student at The University of Chicago, studying economics and sociology. I'm currently doing research for several faculty members on urban geospatial analysis, and historical study on China.
 
-You can use the [editor on GitHub](https://github.com/QitianHu46/QitianHu46.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Research interest
+* Social science research
+* computational method
+* theoretical and epistemological issues
+* social movements, and China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QitianHu46/QitianHu46.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Other things about me
+* I like classical music and indie/folk (Brahms and No Party for Caodong!)
+* I like Skiing a lot
+* a museum and architecture lover
+* some of my favorite movies ..
+  * 1917 (2019)
+  * Kaili Blues (2015)
+  * Columbus (2017)
+  * Ivan's Childhood (1962)
+* and books
+  * The Structure of Scientific Revolutions
+  * Imagined Communities
+  * Embracing Defeat: Japan in the Wake of World War II
+  * 白夜 (a photography collection by 冯立)
+  
